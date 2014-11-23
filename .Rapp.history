@@ -1,0 +1,9 @@
+head(rownames(a),3)
+a
+a <- available.packages
+head(rownames(a),3)
+install.packages("slidify")
+install.packages("KernSmooth")
+getwd()
+dir()
+getwd()
